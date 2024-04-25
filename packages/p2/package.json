@@ -1,0 +1,8 @@
+{
+  "name": "p2",
+  "version": "1.0.0",
+  "exports": {
+    "import": "./src/index.ts",
+    "types": "./src/index.ts"
+  }
+}
